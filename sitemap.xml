@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://localhost/lang_final/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+<url>
+   <loc>http://localhost/lang_final/trang-chu</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/gioi-thieu</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/du-an</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/dang-cap-nhat-1649921902</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/dang-cap-nhat-1649921902-1649921902</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/dang-cap-nhat-1649921902-1649921902-1649921902</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/dang-cap-nhat-1649921902-1649921902-1649921902-1649921902</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/tuyen-dung</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/dang-cap-nhat-1621495048</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/dang-cap-nhat-1621498942</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/tin-tuc</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/dang-cap-nhat-1621495037</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/bat-dong-san</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>http://localhost/lang_final/lien-he</loc>
+   <changefreq>daily</changefreq>
+   <priority>0.5</priority>
+</url>
+</urlset>
